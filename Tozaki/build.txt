@@ -1,0 +1,3 @@
+displayName = Tozaki Terraria Modding
+author = Nicolasfmc
+version = 0.1

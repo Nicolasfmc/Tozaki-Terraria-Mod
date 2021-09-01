@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GPh0CMMfzTHjYrQECz3tOS+xSqRlIP745Npt6kWkpp66Duks/Mi8XqqVE77XDIMdEcFgzHt4dKmJS094OXDD8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Tozaki\\Tozaki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
